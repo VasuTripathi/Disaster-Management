@@ -9,7 +9,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/api/alerts', (req, res) => {
     // Example data
     const alerts = [
-        { area: 'Delhi', type: 'Earthquake' },
+        { area: 'Gujrat', type: 'Earthquake' },
         { area: 'Chandigarh', type: 'Flood' }
     ];
     res.json({ alerts });
