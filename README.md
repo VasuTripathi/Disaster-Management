@@ -1,4 +1,4 @@
-Disaster Management & Volunteer Coordination Platform
+**Calamity Compass - Disaster Management & Volunteer Coordination Platform**
 
 Project Link :- https://disaster-management-one.vercel.app/
 
