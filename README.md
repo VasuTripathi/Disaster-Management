@@ -66,11 +66,6 @@ Disaster-Management/
 
 Installation & Setup
 
-Clone the Repository
-
-git clone https://github.com/yourusername/disaster-management-platform.git
-cd disaster-management-platform
-
 Backend Setup
 
 Install dependencies:
